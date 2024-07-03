@@ -1,0 +1,18 @@
+.video-container {
+    position: relative;
+    width: 100%;
+    max-width: 28vw;  
+    max-height: 35vh;
+    margin-left: 5vw;
+    /* margin: 0 auto;   */
+    margin-bottom: 10px;  
+    
+  }
+  
+  .video-element {
+    width: 100%;
+    border: 2px solid rgb(80, 138, 167);
+    border-radius: 10px;
+    object-fit: cover;  
+  }
+  

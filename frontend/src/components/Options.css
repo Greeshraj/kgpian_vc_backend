@@ -1,0 +1,26 @@
+.options-container {
+    position: absolute;
+    height: 40vh;
+    top: 60vh; /* Example: Adjust as needed */
+    left: 20px; /* Example: Adjust as needed */
+    background-color: #ecd5d5; /* Example: Background color */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 38px;
+    /* margin-left: 50px; */
+  }
+  
+  .options-container h6 {
+    /* margin-bottom: 10px; */
+  }
+  
+  .options-container .form-label {
+    /* margin-top: 12px; */
+  }
+  
+  .options-container .form-control {
+    /* margin-top: 20px; */
+  }
+  
